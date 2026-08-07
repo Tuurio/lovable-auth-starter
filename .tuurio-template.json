@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "sourceRepository": "Tuurio/auth_samples",
+  "sourcePath": "auth_samples_lovable",
+  "sourceSha": "b7582d09518ce261a97ce8daaaf52a636b4eb60f",
+  "templateId": "lovable",
+  "managedFiles": [
+    {
+      "path": ".github/workflows/verify.yml",
+      "sha256": "0ab12545a87108e8cdb2d680d1a316fd5f25f4f650d094c78b9ed6a118399fd4"
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "af53b090b09cce5f15bf4afc589009216bf5005831e3bbca1909bc6f07899c64"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "sha256": "eca7bc9ae5f90565d078388be830b16a29e6f57b781766d7ebb787f1486247c7"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "path": "README.md",
+      "sha256": "faa3d01e465b858be9e0ceaa1a2b88bf2914843da3005977addb6c37b681488c"
+    },
+    {
+      "path": "index.html",
+      "sha256": "d14f67e0732b257cb8b5984a3e6a961504110566412bb4561a081d967eb96ce0"
+    },
+    {
+      "path": "package-lock.json",
+      "sha256": "61021d3ff20e6d17c5e37952c8f91a3c418a30cd6573355793db3784f0473241"
+    },
+    {
+      "path": "package.json",
+      "sha256": "680312f4dcb6df495f1522538adc6f236af2325ee61f9ab3fa013d084515c3f3"
+    },
+    {
+      "path": "src/App.tsx",
+      "sha256": "ddb3f31266ee05562e033dcef793e83c290e7ee3c9cfb238dba97023ef1b4ba8"
+    },
+    {
+      "path": "src/auth.tsx",
+      "sha256": "b2777b34c143f0d296964f53d95cb00b0f9d19488fd96a0193efd1a9e0777eed"
+    },
+    {
+      "path": "src/main.tsx",
+      "sha256": "de46d3f881944053aca55417654ed062cfd033f10d449d7de5650147e651f80d"
+    },
+    {
+      "path": "src/style.css",
+      "sha256": "58ae84d76b6e5a95efaff37d0cb13f19d72e90a503be0caefb9792003a803c5c"
+    },
+    {
+      "path": "src/tuurio.public.json",
+      "sha256": "7793442cabc4ddad7ee6b54bfe0367bb1117a3d6167a15af08d090a8312a226e"
+    },
+    {
+      "path": "src/vite-env.d.ts",
+      "sha256": "65996936fbb042915f7b74a200fcdde7e410f32a669b1ab9597cfaa4b0faddb5"
+    },
+    {
+      "path": "tsconfig.json",
+      "sha256": "83efc1798334967d5a907f26b8cba31fa213f16b5ac0ed5c02fd38e7cf0ceb66"
+    },
+    {
+      "path": "vite.config.ts",
+      "sha256": "099316384050c3d7218e68808140ea3c9e69d0dab29e32b34c8540a24fc11e57"
+    }
+  ]
+}

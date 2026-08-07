@@ -1,0 +1,27 @@
+{
+  "name": "tuurio-lovable-react-starter",
+  "private": true,
+  "version": "1.0.0",
+  "license": "Apache-2.0",
+  "type": "module",
+  "engines": {
+    "node": ">=20.19"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "oidc-client-ts": "3.5.0",
+    "react": "19.2.8",
+    "react-dom": "19.2.8"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "5.1.4",
+    "@types/react": "19.2.14",
+    "@types/react-dom": "19.2.3",
+    "typescript": "5.9.3",
+    "vite": "7.3.6"
+  }
+}

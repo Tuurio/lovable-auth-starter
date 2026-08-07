@@ -1,8 +1,9 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceRepository": "Tuurio/auth_samples",
   "sourcePath": "auth_samples_lovable",
-  "sourceSha": "4230326da150f8a40dd45ecfa20bf3f556743d0e",
+  "sourceSha": "6833b4a83ac9aaa09f289f5de9d02aa1fa053e7d",
+  "packageSha256": "0eecf62f9aeb9f0d09ee63d80121b8021108a82d8093a43aa9d19b7d0fa3b114",
   "templateId": "lovable",
   "managedFiles": [
     {

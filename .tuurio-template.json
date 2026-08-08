@@ -2,10 +2,18 @@
   "schemaVersion": 2,
   "sourceRepository": "Tuurio/auth_samples",
   "sourcePath": "auth_samples_lovable",
-  "sourceSha": "fd87414e420b10fc0ca59d5552595d1b51be6230",
-  "packageSha256": "0eecf62f9aeb9f0d09ee63d80121b8021108a82d8093a43aa9d19b7d0fa3b114",
+  "sourceSha": "ee751281bb9cedc2d269c3e21e6e0d544cf2cbf8",
+  "packageSha256": "a5385d28c1427c1f745cc6a2072f307e95ea84b57c7646574a93e8dfdc42bf88",
   "templateId": "lovable",
   "managedFiles": [
+    {
+      "path": ".github/social-preview.png",
+      "sha256": "f38f931b98315065a2a0f609f1fee3a9ceeab4c57e02613f979593620ea304e4"
+    },
+    {
+      "path": ".github/social-preview.svg",
+      "sha256": "5535124895cec1f3b10a0e7bdfdfb784b64f986290256e98f4fde7efeec0d57b"
+    },
     {
       "path": ".github/workflows/verify.yml",
       "sha256": "0ab12545a87108e8cdb2d680d1a316fd5f25f4f650d094c78b9ed6a118399fd4"
@@ -24,7 +32,7 @@
     },
     {
       "path": "README.md",
-      "sha256": "faa3d01e465b858be9e0ceaa1a2b88bf2914843da3005977addb6c37b681488c"
+      "sha256": "8d8517466d74d72247fd33c0fcd752894d06f1edb045514164e83c2c6ac90770"
     },
     {
       "path": "index.html",
